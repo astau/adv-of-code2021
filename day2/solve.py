@@ -27,7 +27,7 @@ def main():
                 aim += v
             case "up":
                 aim -= v
-    print(f"Answer 2: {x * y}") # 
+    print(f"Answer 2: {x * y}") # 1592426537
 
 def parse_file(fname):
     with open(fname, "r") as file:
